@@ -1,0 +1,10 @@
+# settings
+.vscode
+
+# vscode debug artifacts
+__debug*
+
+# build artifacts
+bin
+dist
+build
